@@ -1,6 +1,6 @@
 # python-api-large-data-collection
 
-In these scripts, data from a online marketplace, mercadolivre, is collected via their API and saved in database. A custom script I had done for a client. All the info about account and access keys are blank for their privacy.
+In these scripts, data from a online marketplace, https://www.mercadolivre.com.br , is collected via their API and saved in database. A custom script I had done for a client. All the info about account and access keys are blank for their privacy.
 
 ## Features
 
